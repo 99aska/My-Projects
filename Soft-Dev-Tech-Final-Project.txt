@@ -1,0 +1,45 @@
+Requirements:
+
+
+
+Every group must prepare a simple CRUD-based application using an Angular + Nest JS stack. Regarding functionality, the application should be on par with the class project at the end of the semester plus some business logic on the backend and a working frontend. The application must come with:
+
+
+
+•⁠  ⁠A GitHub project board where the whole development process was administered. Every card must be a small development task done by a single team member.
+
+
+
+•⁠  ⁠Proper version control on GitHub. Either 1 or 2 repositiories.
+
+
+
+•⁠  ⁠Quality code documentation. Every class, method, property must be documented with the language's de-facto standard documentation syntax (JSDoc).
+
+
+
+ 
+
+
+
+When you are finished, please send me an email (gfarkas@gamma.ttk.pte.hu) or write a message on Teams and we will schedule a meeting. Every team member must be present on the meeting, as everyone must present their contribution individually.
+
+
+
+ 
+
+
+
+The deadline is the end of the exam period, but please be aware that if you want to present in the last moment, I might have other tasks as well, therefore I cannot guarantee a listening. Also, if you present early enough and you are not happy about the grade, you still have time to fix things up and try again.
+
+
+
+ 
+
+
+
+Bests,
+
+
+
+Gábor
